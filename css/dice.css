@@ -30,7 +30,7 @@
 }
 
 .dice .face {
-	background: url(https://guimagames.azurewebsites.net/images/dice.png) no-repeat;
+	background: url("../img/fieltro.jpg") no-repeat;
 	background-size: 150px 100px;
 	color: white;
 	font-size: 20px;
